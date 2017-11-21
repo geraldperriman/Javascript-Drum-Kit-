@@ -1,7 +1,7 @@
 html {
   font-size: 10px;
-  background: url("background.gif") center;
-  background-size: 20%;
+  background: goldenrod url("background.gif") center;
+  background-size: 30%;
   background-repeat: round space;
 }
 body,html {
